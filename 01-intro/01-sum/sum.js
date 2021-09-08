@@ -1,5 +1,5 @@
 function sum(a, b) {
-  /* ваш код */
+  return parseInt(a) + parseInt(b);
 }
 
 module.exports = sum;
